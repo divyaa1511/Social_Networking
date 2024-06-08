@@ -150,10 +150,8 @@ docker-compose up
 The application should now be running in a Docker container and accessible at http://localhost:8000.
 
 ## Postman Collection
-The Postman collection for this project is available in the postman directory. You can import the collection into Postman to test the API endpoints.
+The Postman collection for this project is available in the social directory as postman_collection.json. You can import the collection into Postman to test the API endpoints.
 
-## License
-Save this content to a file named `README.md` in your project root directory. This file provides an overview of the project, installation instructions, API endpoints, and additional information like how to run the project with Docker and where to find the Postman collection.
 
    
 
